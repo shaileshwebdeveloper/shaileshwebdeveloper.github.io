@@ -14,7 +14,7 @@ export default function About({ content, refProperty }) {
         </div>
         <div className="about-photo">
           <img
-            className="krishna"
+            className="krishna" 
             src={photo}
             alt="Shailesh Sampat"
           ></img>

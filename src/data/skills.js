@@ -17,10 +17,12 @@ import js from "../img/skills/js.png";
 
 import react from "../img/skills/react.png";
 import git from "../img/skills/git.png";
-import cy from "../img/skills/cy.png";
 import ts from "../img/skills/ts.svg";
-import node from "../img/skills/node.png";
-import next from "../img/skills/next.png";
+import Chakra from "../img/skills/Chakra-Ui.png";
+import bootstrap from "../img/skills/bootstrap-logo-shadow.png";
+import Vs from "../img/skills/Vs.png";
+import Jquery from "../img/skills/Jquery.png";
+import Redux from "../img/skills/Redux.png";
 
 const skills = [
   { name: "HTML", img: html, type: 0, level: 1 },
@@ -32,8 +34,13 @@ const skills = [
   { name: "React.js", img: react, type: 0, level: 0 },
 
   // { name: "Next.js", img: next, type: 0, level: 0 },
-  { name: "Node.js", img: node, type: 0, level: 0 },
+  // { name: "Node.js", img: node, type: 0, level: 0 },
   { name: "Git", img: git, type: 0, level: 0 },
+  { name: "Jquery", img: Jquery, type: 0, level: 0 },
+  { name: "Bootstrap", img: bootstrap, type: 0, level: 0 },
+  { name: "Visual Studio", img: Vs, type: 0, level: 0 },
+  { name: "Redux", img: Redux, type: 0, level: 0 },
+  { name: "Chakra UI", img: Chakra, type: 0, level: 0 },
   // { name: "Cypress", img: cy, type: 0, level: 0 },
 ];
 

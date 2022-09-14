@@ -1,13 +1,16 @@
 import { useState, useRef } from "react";
 
+
 import "./scss/main.scss";
+
+import GitHubCalendar from 'react-github-calendar';
 
 import Loader from "./components/Loader";
 import Header from "./components/Header.jsx";
 import Home from "./components/Home.jsx";
 import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
-// import Projects from "./components/Projects.jsx";
+import Projects from "./components/Projects.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer";
 // Icons
@@ -17,6 +20,8 @@ import closeIcon from "./img/x.svg";
 
 //Data
 import dataJSON from "./data/english.js";
+import { Github } from "./components/Github";
+
 
 function App() {
   // Set page loader
@@ -86,10 +91,13 @@ function App() {
           <Home content={content.home} refProperty={references.home} />
           <About content={content.about} refProperty={references.about} />
           <Skills content={content.skills} refProperty={references.skills} />
-          {/* <Projects
+          <Projects
             content={content.projects}
             refProperty={references.projects}
-          /> */}
+          />
+          
+          <Github/>
+
           <Contact content={content.contact} refProperty={references.contact} />
           <Footer />
         </div>
