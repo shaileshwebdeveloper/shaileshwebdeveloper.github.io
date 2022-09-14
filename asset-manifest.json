@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecf6e6d3.css",
-    "main.js": "/static/js/main.dc17405a.js",
+    "main.css": "/static/css/main.d7a9ad8e.css",
+    "main.js": "/static/js/main.71556c3a.js",
     "static/js/787.d9a20797.chunk.js": "/static/js/787.d9a20797.chunk.js",
+    "static/media/india-today.mp4": "/static/media/india-today.588da5253deeefefbff9.mp4",
+    "static/media/netmeds.mp4": "/static/media/netmeds.cf8c662c2c67d0387a34.mp4",
+    "static/media/fabbag.mp4": "/static/media/fabbag.a9b9c1324d3ec0a2ebec.mp4",
     "static/media/ShaileshSampat.pdf": "/static/media/ShaileshSampat.45853b7e8a0f8aae8e3e.pdf",
     "static/media/avatarM.jpg": "/static/media/avatarM.e7b03364cc267d7cafdc.jpg",
-    "static/media/node.png": "/static/media/node.80c15dd0bfe93afd8167.png",
+    "static/media/bootstrap-logo-shadow.png": "/static/media/bootstrap-logo-shadow.f132cb791703420e69ca.png",
     "static/media/css.png": "/static/media/css.f5fa424ec6a14922911c.png",
     "static/media/react.png": "/static/media/react.f5cd65b8737a7245f4c1.png",
     "static/media/launch.svg": "/static/media/launch.a815fb0500842cabc12f54ad75ab58eb.svg",
-    "static/media/next.png": "/static/media/next.331efda6800a28298b1b.png",
-    "static/media/cy.png": "/static/media/cy.c2716fe39045ec2b4f0c.png",
     "static/media/html.png": "/static/media/html.bb67836a362432b775cc.png",
+    "static/media/project-website.svg": "/static/media/project-website.f726de87753ffde4f2e2d7150b0e82c4.svg",
     "static/media/whatsapp.svg": "/static/media/whatsapp.598272978a02faad415aa059df6a8ac6.svg",
     "index.html": "/index.html",
+    "static/media/project-github.svg": "/static/media/project-github.d984627a702dddc1d42867ac1e3f1e71.svg",
     "static/media/ts.svg": "/static/media/ts.22b4f22ec3ee32c08fb2c0a25682bb5b.svg",
     "static/media/loading.svg": "/static/media/loading.e779e9c312f33b0593c131edd831ba0c.svg",
     "static/media/github.svg": "/static/media/github.ba1f39853a9771078569b38377a4c421.svg",
@@ -23,12 +26,12 @@
     "static/media/scroll-down.svg": "/static/media/scroll-down.790da1b06f3901f4092fcb4ba6eeadbd.svg",
     "static/media/x.svg": "/static/media/x.168d449f06f890b251ad3ab389e7b5b5.svg",
     "static/media/burger.svg": "/static/media/burger.70e270c43781b277a504e09e6a0670ed.svg",
-    "main.ecf6e6d3.css.map": "/static/css/main.ecf6e6d3.css.map",
-    "main.dc17405a.js.map": "/static/js/main.dc17405a.js.map",
+    "main.d7a9ad8e.css.map": "/static/css/main.d7a9ad8e.css.map",
+    "main.71556c3a.js.map": "/static/js/main.71556c3a.js.map",
     "787.d9a20797.chunk.js.map": "/static/js/787.d9a20797.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecf6e6d3.css",
-    "static/js/main.dc17405a.js"
+    "static/css/main.d7a9ad8e.css",
+    "static/js/main.71556c3a.js"
   ]
 }
