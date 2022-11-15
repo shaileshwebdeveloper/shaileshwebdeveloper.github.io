@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.48d5aaa4.css",
-    "main.js": "/static/js/main.43f024db.js",
+    "main.js": "/static/js/main.8cee842f.js",
     "static/media/india-today.mp4": "/static/media/india-today.588da5253deeefefbff9.mp4",
     "static/media/netmeds.mp4": "/static/media/netmeds.cf8c662c2c67d0387a34.mp4",
     "static/media/fabbag.mp4": "/static/media/fabbag.a9b9c1324d3ec0a2ebec.mp4",
-    "static/media/ShaileshSampat.pdf": "/static/media/ShaileshSampat.a56769b151f64b3fc986.pdf",
+    "static/media/Shailesh_Sampat_Resume.pdf": "/static/media/Shailesh_Sampat_Resume.a56769b151f64b3fc986.pdf",
     "static/media/avatarM.jpg": "/static/media/avatarM.e7b03364cc267d7cafdc.jpg",
     "static/media/bootstrap-logo-shadow.png": "/static/media/bootstrap-logo-shadow.f132cb791703420e69ca.png",
     "static/media/node.png": "/static/media/node.80c15dd0bfe93afd8167.png",
@@ -23,10 +23,10 @@
     "static/media/x.svg": "/static/media/x.ca0421c62fd1d55d2e0cc074fd28e263.svg",
     "static/media/burger.svg": "/static/media/burger.169f576c1499cbeba13068db8a83bbec.svg",
     "main.48d5aaa4.css.map": "/static/css/main.48d5aaa4.css.map",
-    "main.43f024db.js.map": "/static/js/main.43f024db.js.map"
+    "main.8cee842f.js.map": "/static/js/main.8cee842f.js.map"
   },
   "entrypoints": [
     "static/css/main.48d5aaa4.css",
-    "static/js/main.43f024db.js"
+    "static/js/main.8cee842f.js"
   ]
 }
